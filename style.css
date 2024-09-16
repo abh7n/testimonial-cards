@@ -1,0 +1,111 @@
+body {
+    padding: 30px;
+    margin: 30px;
+    border: 2px black solid;
+    border-radius: 20px;
+    width: 700px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+
+.comment1 {
+
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+    background-color: rgb(27, 27, 27);
+    padding: 10px;
+}
+
+.p1info {
+    padding: 10px;
+    display: flex;
+    gap: 15px;
+
+}
+
+.p1img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+
+.secondbox {
+    border: 2px black solid;
+    border-radius: 20px;
+    width: 310px;
+    height: 200px;
+    padding: 10px;
+
+}
+
+.comment2 {
+    width: 300px;
+}
+
+.p2info {
+    padding: 10px;
+    display: flex;
+    gap: 15px;
+
+}
+
+.p2img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+.section2 {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.p3img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.comment3 {
+    background-color: rgb(27, 27, 27);
+    color: white;
+    border-radius: 10px;
+    width: 400px;
+    height: 160px;
+    padding: 20px;
+
+}
+
+.section3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+.comment4 {
+    width: 500px;
+    padding: 10px;
+
+}
+
+.p4img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
