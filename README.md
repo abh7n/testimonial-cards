@@ -16,3 +16,7 @@ A collection of responsive and customizable testimonial cards built using HTML a
 - Mozilla Firefox
 - Microsoft Edge
 
+*Version History*
+
+- v1.0.0 - Initial release
+
