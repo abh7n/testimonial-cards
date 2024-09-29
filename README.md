@@ -1,7 +1,9 @@
 # Testimonial Cards
 
-A collection of responsive and customizable testimonial cards built using HTML and CSS.
+![Image description](testimonial-cards.png)
 
+
+A collection of responsive and customizable testimonial cards built using HTML and CSS.
 
 ## Features
 
